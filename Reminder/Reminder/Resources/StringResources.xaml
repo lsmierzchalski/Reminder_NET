@@ -1,0 +1,22 @@
+﻿<ResourceDictionary 
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+     xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <system:String x:Key="Add_Button">Add reminder</system:String>
+    <system:String x:Key="Edit_Button">Edit</system:String>
+    <system:String x:Key="Delete_Button">Delete</system:String>
+    <system:String x:Key="Content">Content</system:String>
+    <system:String x:Key="Content_Text">Content:</system:String>
+    <system:String x:Key="Date">Date</system:String>
+    <system:String x:Key="Date_Text">Date:</system:String>
+    <system:String x:Key="TIme">Time</system:String>
+    <system:String x:Key="TIme_Text">Time:</system:String>
+    <system:String x:Key="Title">Reminder</system:String>
+    <system:String x:Key="Current_Time_Text">Current date and time:</system:String>
+    <system:String x:Key="Reminders_List_Text">List of alarms:</system:String>
+    <system:String x:Key="Add">Add</system:String>
+    <system:String x:Key="Edit">Edit</system:String>
+    <system:String x:Key="Cancel">Cancel</system:String>
+    
+</ResourceDictionary>
